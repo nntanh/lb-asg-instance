@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="/images/Diagram.png" width=100% height=100%>
+<img src="/images/Diagram.jpg" width=100% height=100%>
 </h1>
 
 ## Workflow
