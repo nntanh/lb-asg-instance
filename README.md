@@ -1,3 +1,7 @@
+<h1 align="center">
+<img src="/images/Diagram.png" width=100% height=100%>
+</h1>
+
 ## Workflow
 
 1. Deploy VPC default
