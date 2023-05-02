@@ -2,7 +2,7 @@
 <img src="/images/Diagram.jpg" width=100% height=100%>
 </h1>
 
-## Workflow
+## Project workflow
 
 1. Deploy VPC default in AWS
 2. Create IAM role using Terraform. It consists policies for instance access to get SSH keypair from Parameter.
